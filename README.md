@@ -29,7 +29,6 @@ Crafted with clean HTML, stylish CSS, and animated smoothly with AOS – this we
 
 ✅ Clean, modern UI for online shopping  
 ✅ Smooth scroll animations with AOS.js  
-✅ Responsive design for all devices 📱💻  
 ✅ Eye-catching hero section with CTA  
 ✅ Stylish product grid with hover effects  
 ✅ Footer with newsletter & social links  
